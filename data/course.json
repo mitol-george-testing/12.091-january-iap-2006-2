@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5b2ee345-d759-0575-5f10-76db94266de7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Medical Geology/Geochemistry: An Exposure",
+  "course_description": "This course introduces students to the basic concepts of Medical Geology/Geochemistry. Medical Geology/Geochemistry is the study of the interaction between abundances of elements and isotopes and the health of humans and plants.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.091",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
